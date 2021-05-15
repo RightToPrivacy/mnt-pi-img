@@ -4,7 +4,7 @@
 #
 # <righttoprivacy[at]@tutanota.com>
 #
-sudo cp mnt-pi-img /usr/bin/mnt-pi-img
+sudo cp mnt-pi-img.sh /usr/bin/mnt-pi-img
 chmod +x /usr/bin/mnt-pi-img
 echo "mnt-pi-img command now ready to use."
 echo ' '
