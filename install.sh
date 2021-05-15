@@ -9,6 +9,3 @@ chmod +x /usr/bin/mnt-pi-img
 echo "mnt-pi-img command now ready to use."
 echo ' '
 echo "To use simply issue: sudo mnt-pi-img."
-
-
-NOT FINISHED WILL FINISH AS I GET TIME.
