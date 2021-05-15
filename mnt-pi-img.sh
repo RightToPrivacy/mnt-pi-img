@@ -16,3 +16,6 @@ read -p 'Mount point (dir/location): ' mntpoint
 losetup -P /dev/loop0 $imgname
 mount /dev/loop0p2 $mntpoint
 mount /dev/loop0p1 $mntpoint/boot
+
+echo 'Mounted devices/locations: '
+df
